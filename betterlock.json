@@ -1,0 +1,18 @@
+{
+    "apps": {
+        "multistar": {
+            "details": {
+                "package": "com.samsung.multistar",
+                "version": "2.2.0.1",
+                "icon": "https://aviparshan.com/unitmeasure/icon.png"
+            }
+        },
+	"lockstar": {
+            "details": {
+                "package": "com.samsung.lockstar",
+                "version": "1.1.00.11",
+                "icon": "https://aviparshan.com/unitmeasure/icon.png"
+            }
+        },
+    }
+}
