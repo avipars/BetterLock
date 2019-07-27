@@ -1,6 +1,6 @@
 {
-    "apps": {
-        "MultiStar": {
+    "apps": [
+        "title": "MultiStar" {
             "details": {
                 "package": "com.samsung.android.multistar",
                 "version": "2.2.0.1",
@@ -8,19 +8,19 @@
                 "icon": "https://github.com/avipars/BetterLock/raw/master/goodlock.png"
             }
         },
-	"lockstar": {
+	 "title": "lockstar" {
             "details": {
                 "package": "com.samsung.systemui.lockstar",
                 "version": "1.1.00.11",
                 "icon": "https://github.com/avipars/BetterLock/raw/master/lockstar.png"
             }
         },
-	 "NiceCatch": {
+	 "title": "NiceCatch" {
             "details": {
                 "package": "com.samsung.android.app.goodcatch",
                 "version": "1.1.00.11",
                 "icon": "https://github.com/avipars/BetterLock/raw/master/nicecatch.png"
             }
-        },
-    }
+        }
+    ]
 }
