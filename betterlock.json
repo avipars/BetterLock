@@ -24,3 +24,56 @@
         }
     ]
 }
+
+
+{
+	"Apps": [{
+			"title": "MultiStar",
+			"package": "com.samsung.android.multistar",
+			"version": "2.2.0.1",
+			"description": "Multi-Window Customizations",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/goodlock.png"
+		},
+		{
+			"title": "lockstar",
+			"package": "com.samsung.systemui.lockstar",
+			"version": "1.1.00.11",
+			"description": "Lock Screen Customizations",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/lockstar.png"
+		},
+		{
+			"title": "NiceCatch",
+			"package": "com.samsung.android.app.goodcatch",
+			"version": "1.1.00.11",
+			"description": "Tracks which applications cause vibrations",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/nicecatch.png"
+		},
+		{
+			"color": "blue",
+			"category": "hue",
+			"type": "primary",
+			"code": {
+				"rgba": [0, 0, 255, 1],
+				"hex": "#00F"
+			}
+		},
+		{
+			"color": "yellow",
+			"category": "hue",
+			"type": "primary",
+			"code": {
+				"rgba": [255, 255, 0, 1],
+				"hex": "#FF0"
+			}
+		},
+		{
+			"color": "green",
+			"category": "hue",
+			"type": "secondary",
+			"code": {
+				"rgba": [0, 255, 0, 1],
+				"hex": "#0F0"
+			}
+		}
+	]
+}
