@@ -22,21 +22,21 @@
 		},
 		{
 			"title": "One Hand Operation",
-			"package": "com.samsung.android.app.goodcatch",
+			"package": "com.samsung.systemui.navillera",
 			"version": "1.1.00.11",
 			"description": "Allows you to use your phone with one hand",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/onehand.png"
 		},
 		{
 			"title": "Sound Assistant",
-			"package": "com.samsung.android.app.goodcatch",
+			"package": "com.samsung.android.soundassistant",
 			"version": "1.1.00.11",
 			"description": "Customize and change your sound experience",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/soundassistant.png"
 		},
 		{
 			"title": "Task Changer",
-			"package": "com.samsung.android.app.goodcatch",
+			"package": "com.samsung.android.pluginrecents",
 			"version": "1.1.00.11",
 			"description": "Customize your task changer experience",
 			"icon": "taskchanger.png"
