@@ -80,4 +80,12 @@
 			"description": "Customize your special Quickpanel",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/quickstar.png"
 		}
+		,
+		{
+			"title": "NavStar",
+			"package": "com.samsung.android.qstuner",
+			"version": "2.4.03.5",
+			"description": "Customize your special Quickpanel",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/navstar.png"
+		}
 ]
