@@ -1,45 +1,43 @@
-{
-	"Apps": [{
+[{
 			"title": "MultiStar",
 			"package": "com.samsung.android.multistar",
 			"version": "2.2.0.1",
 			"description": "Multi-Window Customizations",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/goodlock.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/goodlock.png"
 		},
 		{
 			"title": "lockstar",
 			"package": "com.samsung.systemui.lockstar",
 			"version": "1.1.00.11",
 			"description": "Lock Screen Customizations",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/lockstar.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/lockstar.png"
 		},
 		{
 			"title": "NiceCatch",
 			"package": "com.samsung.android.app.goodcatch",
 			"version": "1.1.00.11",
 			"description": "Tracks which applications cause vibrations",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/nicecatch.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/nicecatch.png"
 		},
 		{
 			"title": "One Hand Operation",
 			"package": "com.samsung.systemui.navillera",
 			"version": "1.1.00.11",
 			"description": "Allows you to use your phone with one hand",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/onehand.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/onehand.png"
 		},
 		{
 			"title": "Sound Assistant",
 			"package": "com.samsung.android.soundassistant",
 			"version": "1.1.00.11",
 			"description": "Customize and change your sound experience",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/soundassistant.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/soundassistant.png"
 		},
 		{
 			"title": "Task Changer",
 			"package": "com.samsung.android.pluginrecents",
 			"version": "1.1.00.11",
 			"description": "Customize your task changer experience",
-			"icon": "taskchanger.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/taskchanger.png"
 		}
-	]
-}
+]
