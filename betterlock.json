@@ -2,42 +2,82 @@
 			"title": "MultiStar",
 			"package": "com.samsung.android.multistar",
 			"version": "2.2.0.1",
-			"description": "Multi-Window Customizations",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/goodlock.png"
+			"description": "Enjoy enhanced Multiwindow experience",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/multistar.png"
 		},
 		{
-			"title": "lockstar",
+			"title": "LockStar",
 			"package": "com.samsung.systemui.lockstar",
 			"version": "1.1.00.11",
-			"description": "Lock Screen Customizations",
+			"description": "Create new Lockscreen stlye",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/lockstar.png"
 		},
 		{
 			"title": "NiceCatch",
 			"package": "com.samsung.android.app.goodcatch",
 			"version": "1.1.00.11",
-			"description": "Tracks which applications cause vibrations",
+			"description": "Got tired of mysterious vibration on your phone?",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/nicecatch.png"
 		},
 		{
 			"title": "One Hand Operation",
 			"package": "com.samsung.systemui.navillera",
 			"version": "1.1.00.11",
-			"description": "Allows you to use your phone with one hand",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/onehand.png"
+			"description": "Control your phone or tablet more easily with just one hand",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/onehandoperation.png"
 		},
 		{
 			"title": "Sound Assistant",
 			"package": "com.samsung.android.soundassistant",
 			"version": "1.1.00.11",
-			"description": "Customize and change your sound experience",
+			"description": "Advanced sound utility for your Galaxy.",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/soundassistant.png"
 		},
 		{
+			"title": "Clockface",
+			"package": "com.samsung.android.app.clockface",
+			"version": "1.1.00.3",
+			"description": "Pick a clock style you like!",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/clockface.png"
+		}
+		,
+		{
 			"title": "Task Changer",
 			"package": "com.samsung.android.pluginrecents",
-			"version": "1.1.00.11",
-			"description": "Customize your task changer experience",
+			"version": "2.4.00.0",
+			"description": "Task Changer with new style",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/taskchanger.png"
+		}
+		,
+		{
+			"title": "NotiStar",
+			"package": "com.samsung.android.pluginrecents",
+			"version": "2.4.00.0",
+			"description": "NotiStar is a new notification management service",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/notistar.png"
+		}
+		,
+		{
+			"title": "EdgeLighting +",
+			"package": "com.samsung.android.pluginrecents",
+			"version": "2.4.00.0",
+			"description": "Pick a clock style you like!",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/notistar.png"
+		}
+		,
+		{
+			"title": "NiceShot",
+			"package": "com.samsung.android.pluginrecents",
+			"version": "2.4.00.0",
+			"description": "Pick a clock style you like!",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/notistar.png"
+		}
+		,
+		{
+			"title": "QuickStar",
+			"package": "com.samsung.android.qstuner",
+			"version": "2.4.03.5",
+			"description": "Customize your special Quickpanel",
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/quickstar.png"
 		}
 ]
