@@ -31,14 +31,14 @@
 			"package": "com.samsung.android.soundassistant",
 			"version": "1.1.00.11",
 			"description": "Advanced sound utility for your Galaxy.",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/soundassistant.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/soundassistant.png"
 		},
 		{
 			"title": "Clockface",
 			"package": "com.samsung.android.app.clockface",
 			"version": "1.1.00.3",
 			"description": "Pick a clock style you like!",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/clockface.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/clockface.png"
 		}
 		,
 		{
@@ -46,7 +46,7 @@
 			"package": "com.samsung.android.pluginrecents",
 			"version": "2.4.00.0",
 			"description": "Task Changer with new style",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/taskchanger.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/taskchanger.png"
 		}
 		,
 		{
@@ -54,7 +54,7 @@
 			"package": "com.samsung.android.pluginrecents",
 			"version": "2.4.00.0",
 			"description": "NotiStar is a new notification management service",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/notistar.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/notistar.png"
 		}
 		,
 		{
@@ -62,7 +62,7 @@
 			"package": "com.samsung.android.pluginrecents",
 			"version": "2.4.00.0",
 			"description": "Pick a clock style you like!",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/notistar.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/notistar.png"
 		}
 		,
 		{
@@ -70,7 +70,7 @@
 			"package": "com.samsung.android.pluginrecents",
 			"version": "2.4.00.0",
 			"description": "Pick a clock style you like!",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/notistar.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/notistar.png"
 		}
 		,
 		{
@@ -78,7 +78,7 @@
 			"package": "com.samsung.android.qstuner",
 			"version": "2.4.03.5",
 			"description": "Customize your special Quickpanel",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/quickstar.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/quickstar.png"
 		}
 		,
 		{
@@ -86,6 +86,6 @@
 			"package": "com.samsung.android.qstuner",
 			"version": "2.4.03.5",
 			"description": "Customize your special Quickpanel",
-			"icon": "https://github.com/avipars/BetterLock/raw/master/images/images/navstar.png"
+			"icon": "https://github.com/avipars/BetterLock/raw/master/images/navstar.png"
 		}
 ]
