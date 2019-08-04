@@ -16,3 +16,5 @@ Module Launcher for Good Lock Add-ons from Samsung.
 * You are welcome to use the JSON for your own project/client
 
 
+For those that want Good Lock specifically: 
+https://www.youtube.com/watch?v=wUvnlYQ-VDI
