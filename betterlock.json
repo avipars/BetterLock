@@ -51,7 +51,7 @@
 		,
 		{
 			"title": "NotiStar",
-			"package": "com.samsung.android.pluginrecents",
+			"package": "com.samsung.systemui.notilus",
 			"version": "2.4.00.0",
 			"description": "NotiStar is a new notification management service",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/notistar.png"
@@ -67,7 +67,7 @@
 		,
 		{
 			"title": "NiceShot",
-			"package": "com.samsung.android.pluginrecents",
+			"package": "com.samsung.android.app.captureplugin",
 			"version": "2.4.00.0",
 			"description": "Pick a clock style you like!",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/niceshot.png"
@@ -83,7 +83,7 @@
 		,
 		{
 			"title": "NavStar",
-			"package": "com.samsung.android.qstuner",
+			"package": "com.samsung.systemui.navillera",
 			"version": "2.4.03.5",
 			"description": "Customize your special Quickpanel",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/navstar.png"
