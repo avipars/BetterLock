@@ -9,7 +9,7 @@
 	},
 	{
 		"title": "EdgeLighting +",
-		"package": "com.samsung.android.app.cocktailbarservice",
+		"package": "com.samsung.android.app.edgelighting",
 		"activity": "com.samsung.android.app.edgelighting.settings.EdgeLightingStyleActivity",
 		"version": "2.4.00.0",
 		"description": "Pick a clock style you like!",
