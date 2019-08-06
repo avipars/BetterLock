@@ -21,7 +21,7 @@
 		},
 		{
 			"title": "One Hand Operation",
-			"package": "com.samsung.systemui.navillera",
+			"package": "com.samsung.android.sidegesturepad",
 			"version": "1.1.00.11",
 			"description": "Control your phone or tablet more easily with just one hand",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/onehandoperation.png"
@@ -59,7 +59,7 @@
 		,
 		{
 			"title": "EdgeLighting +",
-			"package": "com.samsung.android.pluginrecents",
+			"package": "com.samsung.android.edgelightingeffectunit",
 			"version": "2.4.00.0",
 			"description": "Pick a clock style you like!",
 			"icon": "https://github.com/avipars/BetterLock/raw/master/images/notistar.png"
