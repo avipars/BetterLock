@@ -10,7 +10,7 @@
 	{
 		"title": "EdgeLighting +",
 		"package": "com.samsung.android.app.edgelighting",
-		"activity": "com.samsung.android.app.edgelighting",
+		"activity": "",
 		"version": "2.4.00.0",
 		"description": "Pick a clock style you like!",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/edgelighting.png"
@@ -50,7 +50,7 @@
 	{
 		"title": "NiceShot",
 		"package": "com.samsung.android.app.captureplugin",
-		"activity": "com.samsung.android.app.captureplugin.settings.ui.CapturePluginSettingsActivity",
+		"activity": "com.samsung.android.app.captureplugin.action.SETTINGS",
 		"version": "2.4.00.0",
 		"description": "Pick a clock style you like!",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/niceshot.png"
