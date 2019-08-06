@@ -10,7 +10,7 @@
 	{
 		"title": "EdgeLighting +",
 		"package": "com.samsung.android.app.edgelighting",
-		"activity": "com.samsung.android.edgelightingeffectunit.activity.EdgeLightingUnitActivity",
+		"activity": "com.samsung.android.app.edgelighting",
 		"version": "2.4.00.0",
 		"description": "Pick a clock style you like!",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/edgelighting.png"
@@ -82,7 +82,7 @@
 	{
 		"title": "Sound Assistant",
 		"package": "com.samsung.android.soundassistant",
-		"activity": "com.samsung.android.qstuner.QsTunerActivity",
+		"activity": "com.sec.android.soundassistant.activities.MainActivity",
 		"version": "1.1.00.11",
 		"description": "Advanced sound utility for your Galaxy.",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/soundassistant.png"
