@@ -10,7 +10,7 @@
 	{
 		"title": "EdgeLighting +",
 		"package": "com.samsung.android.app.edgelighting",
-		"activity": "com.samsung.android.app.edgelighting.settings.EdgeLightingStyleActivity",
+		"activity": "com.samsung.android.edgelightingeffectunit.activity.EdgeLightingUnitActivity",
 		"version": "2.4.00.0",
 		"description": "Pick a clock style you like!",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/edgelighting.png"
@@ -18,7 +18,7 @@
 	{
 		"title": "LockStar",
 		"package": "com.samsung.systemui.lockstar",
-		"activity": "com.samsung.systemui.lockstar.settings.main.SettingsActivity",
+		"activity": "com.samsung.systemui.lockstar.settings.main.SettingActivity",
 		"version": "1.1.00.11",
 		"description": "Create new Lockscreen stlye",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/lockstar.png"
@@ -26,7 +26,7 @@
 	{
 		"title": "MultiStar",
 		"package": "com.samsung.android.multistar",
-		"activity": "com.samsung.android.multistar.OneUIMainActivity",
+		"activity": "com.samsung.android.multistar.MainActivity",
 		"version": "2.2.0.1",
 		"description": "Enjoy enhanced Multiwindow experience",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/multistar.png"
@@ -42,7 +42,7 @@
 	{
 		"title": "NiceCatch",
 		"package": "com.samsung.android.app.goodcatch",
-		"activity": "com.samsung.android.app.goodcatch.common,MainActivity",
+		"activity": "com.samsung.android.app.goodcatch.common.MainActivity",
 		"version": "1.1.00.11",
 		"description": "Got tired of mysterious vibration on your phone?",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/nicecatch.png"
@@ -74,7 +74,7 @@
 	{
 		"title": "QuickStar",
 		"package": "com.samsung.android.qstuner",
-		"activity": "com.samsung.android.qstuner.peace.QStartMainDashboardActivity",
+		"activity": "com.samsung.android.qstuner.QsTunerActivity",
 		"version": "2.4.03.5",
 		"description": "Customize your special Quickpanel",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/quickstar.png"
@@ -82,7 +82,7 @@
 	{
 		"title": "Sound Assistant",
 		"package": "com.samsung.android.soundassistant",
-		"activity": "com.samsung.android.soundassistant.activities.MainActivity",
+		"activity": "com.samsung.android.qstuner.QsTunerActivity",
 		"version": "1.1.00.11",
 		"description": "Advanced sound utility for your Galaxy.",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/soundassistant.png"
