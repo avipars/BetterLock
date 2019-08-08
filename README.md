@@ -17,4 +17,4 @@ Module Launcher for Good Lock Add-ons from Samsung.
 
 
 For those that want Good Lock specifically: 
-https://www.youtube.com/watch?v=wUvnlYQ-VDI
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wUvnlYQ-VDI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
