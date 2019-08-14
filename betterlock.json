@@ -3,7 +3,7 @@
 		"title": "Clockface",
 		"package": "com.samsung.android.app.aodservice",
 		"activity": "com.samsung.android.app.clockpack.settings.LockScreenClockStyleSetting",
-		"version": "1.1.00.3",
+		"version": "4.2.51.3",
 		"description": "Pick a clock style you like!",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/clockface.png"
 	},
@@ -11,7 +11,7 @@
 		"title": "EdgeLighting +",
 		"package": "com.samsung.android.edgelightingeffectunit",
 		"activity": "com.samsung.android.edgelightingeffectunit.activity.EdgeLightingUnitActivity",
-		"version": "2.4.00.0",
+		"version": "1.0.22",
 		"description": "Offers various Edge Lighting effects.",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/edgelighting.png"
 	},
@@ -27,7 +27,7 @@
 		"title": "MultiStar",
 		"package": "com.samsung.android.multistar",
 		"activity": "com.samsung.android.multistar.MainActivity",
-		"version": "2.2.0.1",
+		"version": "2.3.02",
 		"description": "Enjoy enhanced Multiwindow experience",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/multistar.png"
 	},
@@ -43,7 +43,7 @@
 		"title": "NiceCatch",
 		"package": "com.samsung.android.app.goodcatch",
 		"activity": "com.samsung.android.app.goodcatch.common.MainActivity",
-		"version": "1.1.00.11",
+		"version": "1.0.02.3",
 		"description": "Got tired of mysterious vibration on your phone?",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/nicecatch.png"
 	},
@@ -51,7 +51,7 @@
 		"title": "NiceShot",
 		"package": "com.samsung.android.app.captureplugin",
 		"activity": "com.samsung.android.app.captureplugin.settings.ui.CapturePlugInSettingActivity",
-		"version": "2.4.00.0",
+		"version": "1.0.15",
 		"description": "Pick a clock style you like!",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/niceshot.png"
 	},
@@ -59,7 +59,7 @@
 		"title": "NotiStar",
 		"package": "com.samsung.systemui.notilus",
 		"activity": "com.samsung.systemui.notilus.NotiCenterPage",
-		"version": "2.4.00.0",
+		"version": "1.2.24.0",
 		"description": "NotiStar is a new notification management service",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/notistar.png"
 	},
@@ -67,7 +67,7 @@
 		"title": "One Hand Operation",
 		"package": "com.samsung.android.sidegesturepad",
 		"activity": "com.samsung.android.sidegesturepad.settings.SGPSettingsActivity",
-		"version": "1.1.00.11",
+		"version": "2.4.19.0",
 		"description": "Control your phone or tablet more easily with just one hand",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/onehandoperation.png"
 	},
@@ -83,7 +83,7 @@
 		"title": "Sound Assistant",
 		"package": "com.samsung.android.soundassistant",
 		"activity": "com.sec.android.soundassistant.activities.MainActivity",
-		"version": "1.1.00.11",
+		"version": "3.0.07.0",
 		"description": "Advanced sound utility for your Galaxy.",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/soundassistant.png"
 	},
@@ -91,7 +91,7 @@
 		"title": "Task Changer",
 		"package": "com.samsung.android.pluginrecents",
 		"activity": "com.samsung.android.pluginrecents.setting.SettingsActivity",
-		"version": "2.4.00.0",
+		"version": "2.5.00.0",
 		"description": "Task Changer with new style",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/taskchanger.png"
 	}
