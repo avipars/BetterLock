@@ -2,7 +2,7 @@
 	{
 		"title": "Clockface",
 		"package": "com.samsung.android.app.clockface",
-		"activity": "com.samsung.android.app.clockpack.settings.LockScreenClockStyleSetting",
+		"activity": "com.samsung.android.app.clockface",
 		"version": "4.2.51.3",
 		"description": "Pick a clock style you like!",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/clockface.png"
