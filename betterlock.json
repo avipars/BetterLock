@@ -83,7 +83,7 @@
 		"title": "Sound Assistant",
 		"package": "com.samsung.android.soundassistant",
 		"activity": "com.sec.android.soundassistant.activities.MainActivity",
-		"version": "3.1.00.0",
+		"version": "3.1.01.0",
 		"description": "Advanced sound utility for your Galaxy.",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/soundassistant.png"
 	},
