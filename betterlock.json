@@ -8,7 +8,7 @@
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/clockface.png"
 	},
 	{
-		"title": "EdgeLighting +",
+		"title": "EdgeLighting+",
 		"package": "com.samsung.android.edgelightingeffectunit",
 		"activity": "com.samsung.android.edgelightingeffectunit.activity.EdgeLightingUnitActivity",
 		"version": "1.0.22",
