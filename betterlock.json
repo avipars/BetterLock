@@ -11,7 +11,7 @@
 		"title": "EdgeLighting+",
 		"package": "com.samsung.android.edgelightingeffectunit",
 		"activity": "com.samsung.android.edgelightingeffectunit.activity.EdgeLightingUnitActivity",
-		"version": "1.0.22",
+		"version": "1.0.24",
 		"description": "Offers various Edge Lighting effects.",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/edgelighting.png"
 	},
