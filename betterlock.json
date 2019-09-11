@@ -64,7 +64,7 @@
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/notistar.png"
 	},
 	{
-		"title": "One Hand Operation",
+		"title": "One Hand Operation+",
 		"package": "com.samsung.android.sidegesturepad",
 		"activity": "com.samsung.android.sidegesturepad.settings.SGPSettingsActivity",
 		"version": "2.5.41.0",
