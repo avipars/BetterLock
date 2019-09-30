@@ -91,7 +91,7 @@
 		"title": "Task Changer",
 		"package": "com.samsung.android.pluginrecents",
 		"activity": "com.samsung.android.pluginrecents.setting.SettingsActivity",
-		"version": "2.6.00.0",
+		"version": "2.6.01.0",
 		"description": "Task Changer with new style",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/taskchanger.png"
 	}
