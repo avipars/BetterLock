@@ -35,7 +35,7 @@
 		"title": "NavStar",
 		"package": "com.samsung.systemui.navillera",
 		"activity": "com.samsung.systemui.navillera.presentation.view.MainSettingActivity",
-		"version": "1.0.00.14",
+		"version": "1.0.00.15",
 		"description": "Create your own navigation bar",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/navstar.png"
 	},
@@ -75,7 +75,7 @@
 		"title": "QuickStar",
 		"package": "com.samsung.android.qstuner",
 		"activity": "com.samsung.android.qstuner.QsTunerActivity",
-		"version": "2.4.03.5",
+		"version": "2.5.03.4",
 		"description": "Customize your special Quickpanel",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/quickstar.png"
 	},
