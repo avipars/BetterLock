@@ -51,7 +51,7 @@
 		"title": "NiceShot",
 		"package": "com.samsung.android.app.captureplugin",
 		"activity": "com.samsung.android.app.captureplugin.settings.ui.CapturePlugInSettingActivity",
-		"version": "1.0.15",
+		"version": "1.0.16",
 		"description": "Pick a clock style you like!",
 		"icon": "https://github.com/avipars/BetterLock/raw/master/images/niceshot.png"
 	},
