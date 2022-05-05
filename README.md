@@ -18,3 +18,8 @@ Module Launcher for Good Lock Add-ons from Samsung.
 
 For those that want Good Lock specifically: 
 https://youtu.be/wUvnlYQ-VDI
+
+
+The android app: https://github.com/avipars/RetrofitBetterLock
+
+It was a small side project and no longer maintained as GoodLock has removed their Geo-Blocking
